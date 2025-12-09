@@ -2,7 +2,7 @@
 
 <img src= "https://capsule-render.vercel.app/api?type=waving&height=300&color=E5A0D7&text=Sandhiya&fontAlign=50&fontAlignY=50&fontSize=0&fontColor=5A2E6F&desc=Full%20stack&descAlignY=66&descAlign=49&descSize=0" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7669A3&width=435&lines=Growing+as+a+developer" alt="Typing SVG" /></a>" alt="Typing SVG" />
 
 </div>
 
